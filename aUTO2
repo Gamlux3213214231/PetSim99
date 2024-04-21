@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gamlux3213214231/PetSim99/main/Auto"))()
